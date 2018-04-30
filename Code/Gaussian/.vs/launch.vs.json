@@ -1,0 +1,11 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "native",
+      "name": "D:\\Work\\自动驾驶code\\Gaussian",
+      "project": ""
+    }
+  ]
+}
